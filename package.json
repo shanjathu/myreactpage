@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://shanjathu.github.io/reactapp/",
+  "homepage": "https://shanjathu.github.io/myreactpage",
   "scripts": {
     "watch": "webpack -d --watch",
     "build": "webpack",
